@@ -13,3 +13,4 @@ as divine.
 
 Old things are passed away, therefore all things have become new
 I am adding a new line to the file
+I added this line on new_feature branch
